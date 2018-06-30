@@ -1,0 +1,22 @@
+{
+  "name": "fifawcwidget",
+  "version": "0.1.0",
+  "description": "FIFA World Cup Widget",
+  "main": "main.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maacpiash/FIFA-WC-Widget.git"
+  },
+  "author": "maacpiash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maacpiash/FIFA-WC-Widget/issues"
+  },
+  "homepage": "https://github.com/maacpiash/FIFA-WC-Widget#readme",
+  "devDependencies": {
+    "electron": "^2.0.3"
+  }
+}
