@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/maacpiash/FIFA-WC-Widget#readme",
   "devDependencies": {
-    "electron": "^2.0.8"
+    "electron": "^11.5.0"
   }
 }
